@@ -1,0 +1,15 @@
+[submodule "CursoManager"]
+	path = CursoManager
+	url = https://github.com/Hugoag03/CursoManager
+[submodule "proyectojpa-springboot"]
+	path = proyectojpa-springboot
+	url = https://github.com/Hugoag03/proyectojpa-springboot
+[submodule "Mini-Biblioteca"]
+	path = Mini-Biblioteca
+	url = https://github.com/Hugoag03/Mini-Biblioteca
+[submodule "PeopleManager-Spring-Security-"]
+	path = PeopleManager-Spring-Security-
+	url = https://github.com/Hugoag03/PeopleManager-Spring-Security-
+[submodule "ProyectManager-MyBatis-"]
+	path = ProyectManager-MyBatis-
+	url = https://github.com/Hugoag03/ProyectManager-MyBatis-
